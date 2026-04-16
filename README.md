@@ -1,1 +1,0 @@
-# Stroke_Detection
